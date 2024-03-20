@@ -33,7 +33,7 @@
 -   `'23.02.18` **삼성 SDS SW 역량테스트 Professional** (삼성SDS)
 -   `'22.09.02` **정보처리기사** (한국산업인력공단)
 
-## 👨🏻‍💻 Project Summary
+## 🚀 Project Summary
 
 -   `'24.01.08 ~ '24.02.16` **Secreto - 온라인 마니또 서비스**
 
