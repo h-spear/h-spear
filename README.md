@@ -45,13 +45,13 @@
 
     -   Java, Spring, JPA, Spring Data JPA, Thymeleaf, JavaScript, MariaDB
     -   아이디어 제시, 은행 Open API를 활용한 거래 내역 기반 퀴즈 구현, 치매 예방 게임 구현, 치매 진단 검사 구현
-    -   팀 프로젝트(4인)  /  [Github](https://github.com/SSAFYxShinhan/SolJiGi)  /  [시연영상](https://youtu.be/rNPzuXeeRWc)  /  [수상후기(신한 해커톤 With SSAFY 1등)](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_menu_cd=M0204&p_tabseq=226509&p_seq=60&p_pageno=)
+    -   팀 프로젝트(4인)  /  [Github](https://github.com/SSAFYxShinhan/SolJiGi)  /  [시연영상](https://youtu.be/rNPzuXeeRWc)  /  [수상후기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_menu_cd=M0204&p_tabseq=226509&p_seq=60&p_pageno=)
 
 -   `'23.03.27 ~ '23.05.23` **예쁜피오피 - 손글씨 상품 쇼핑몰 홈페이지**
 
     -   Java, Spring, JPA, Spring Data JPA, QueryDSL, Thymeleaf, JavaScript, H2, MariaDB
     -   프로젝트 기획/설계/디자인, 쇼핑몰(상품, 장바구니, 리뷰, 찜, 마이페이지 등) 모든 기능 구현 및 테스트
-    -   개인 프로젝트(1인)  /  [Github](https://github.com/h-spear/pretty-pop)  /  [홈페이지(Cloudtype)](https://port-0-pretty-pop-1msx2blg22vwx1.sel3.cloudtype.app/)
+    -   개인 프로젝트(1인)  /  [Github](https://github.com/h-spear/pretty-pop)  /  [홈페이지](https://port-0-pretty-pop-1msx2blg22vwx1.sel3.cloudtype.app/)
 
 -   `'22.11.15 ~ '22.11.18` **Page Replacement Simulator**
 
@@ -68,7 +68,7 @@
 -   `'21.09.09 ~ '21.12.08` **네트워크 그래프 기반 요리 레시피 분석 및 시각화**
     -   JavaScript, Python, [Gephi](https://gephi.org/)
     -   레시피 그래프 Edge 연결 알고리즘, 그래프 시각화, 데이터 크롤링 및 데이터 정제, 최종 발표
-    -   팀 프로젝트(3인)  /  [Github](https://github.com/h-spear/recipe-analysis-and-network-visualization/)  /  [홈페이지(Github Pages)](https://h-spear.github.io/recipe-analysis-and-network-visualization/)
+    -   팀 프로젝트(3인)  /  [Github](https://github.com/h-spear/recipe-analysis-and-network-visualization/)  /  [홈페이지](https://h-spear.github.io/recipe-analysis-and-network-visualization/)
  
 ---
 
