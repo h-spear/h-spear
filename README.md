@@ -2,7 +2,7 @@
 
 -   E-MAIL.　　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gusckd96@naver.com
 -   Blog.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://h-spear.github.io](https://h-spear.github.io)
--   solved-ac.　　&nbsp;&nbsp;&nbsp;[https://solved.ac/profile/ki9014](https://solved.ac/profile/ki9014)
+-   solved.ac.　　　[https://solved.ac/profile/ki9014](https://solved.ac/profile/ki9014)
 -   LeetCode.　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://leetcode.com/h-spear](https://leetcode.com/h-spear)
 -   programmers.　[https://career.programmers.co.kr/pr/h-spear](https://career.programmers.co.kr/pr/h-spear)
 
