@@ -72,4 +72,8 @@
  
 ---
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ki9014)](https://solved.ac/ki9014)
+<div align="center">
+    <a href="https://solved.ac/ki9014">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ki9014">
+    </a>
+</div>
