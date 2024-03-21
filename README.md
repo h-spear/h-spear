@@ -14,6 +14,9 @@
 -   MySQL, Redis, H2, Firebase
 -   Git, Jira
 
+#### Current Learning
+-   Spring Webflux, R2DBC, Unit Test
+
 ## 🎓 Experience
 
 -   `'23.07.05 ~` **삼성 청년 소프트웨어 아카데미 10기**(SSAFY 10th)
