@@ -46,7 +46,7 @@
 
 -   `'23.08.31 ~ '23.09.17` **솔직이 - 거래 내역 기반 치매 예방 서비스**
 
-    -   Java, Spring, JPA, Spring Data JPA, Thymeleaf, JavaScript, MariaDB
+    -   Java, Spring, JPA, Spring Data JPA, Thymeleaf, JavaScript, MySQL
     -   아이디어 제시, 은행 Open API를 활용한 거래 내역 기반 퀴즈 구현, 치매 예방 게임 구현, 치매 진단 검사 구현
     -   팀 프로젝트(4인)  /  [Github](https://github.com/SSAFYxShinhan/SolJiGi)  /  [시연영상](https://youtu.be/rNPzuXeeRWc)  /  [수상후기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_menu_cd=M0204&p_tabseq=226509&p_seq=60&p_pageno=)
 
