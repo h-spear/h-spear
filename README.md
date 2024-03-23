@@ -1,11 +1,12 @@
 ## 🍠 김현창
 
--   E-MAIL.　　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gusckd96@naver.com
--   Blog.　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://h-spear.github.io](https://h-spear.github.io)
--   solved.ac.　　　[https://solved.ac/profile/ki9014](https://solved.ac/profile/ki9014)
--   LeetCode.　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://leetcode.com/h-spear](https://leetcode.com/h-spear)
--   programmers.　[https://career.programmers.co.kr/pr/h-spear](https://career.programmers.co.kr/pr/h-spear)
-
+|                     | Link                                                                                                                       |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 이메일              | gusckd96@naver.com                                                                                                         |
+| 블로그              | [h-spear.github.io](https://h-spear.github.io)                                                                     |
+| 백준/솔브드         | ●&nbsp;&nbsp;[boj.kr/ki9014](https://www.acmicpc.net/user/ki9014)<br/>●&nbsp;&nbsp;[solved.ac/profile/ki9014](https://solved.ac/profile/ki9014) |
+| 리트코드            | [leetcode.com/h-spear](https://leetcode.com/h-spear)                                                               |
+| 프로그래머스 프로필 | [career.programmers.co.kr/pr/h-spear](https://career.programmers.co.kr/pr/h-spear)                                 |
 ## 👨‍💻 Skills
 
 -   Java, Python, JavaScript, TypeScript
