@@ -30,7 +30,7 @@
 
 ## 🏆 Awards / Certificates
 
--   `'23.12.27` **HAST Level 3** (현대엔지비)
+-   `'23.12.27` **HSAT Level 3** (현대엔지비)
 -   `'23.11.24` **삼성 청년 SW 아카데미 1학기 성적우수상[13반 1등]** (삼성전자)
 -   `'23.09.17` **신한 해커톤 With SSAFY 대상[1등]** (신한은행)
 -   `'23.08.05` **삼성 SW 역량테스트 Pro** (삼성전자)
@@ -41,7 +41,7 @@
 
 -   `'24.01.08 ~ '24.02.16` **Secreto - 온라인 마니또 서비스**
 
-    -   WebRTC, Java, Spring, JPA, Spring Data JPA, Vue.js, TypeScript, MySQL
+    -   Vue.js, TypeScript, MySQL, Java, Spring, JPA, QueryDSL
     -   마니또 미션 인증/자랑, 게임 통계, 히스토리, 회원 관리 구현, 프론트엔드 반응형 웹
     -   팀 프로젝트(6인)
 
