@@ -7,6 +7,7 @@
 | 백준/솔브드         | ●&nbsp;&nbsp;[boj.kr/ki9014](https://www.acmicpc.net/user/ki9014)<br/>●&nbsp;&nbsp;[solved.ac/profile/ki9014](https://solved.ac/profile/ki9014) |
 | 리트코드            | [leetcode.com/h-spear](https://leetcode.com/h-spear)                                                               |
 | 프로그래머스 프로필 | [career.programmers.co.kr/pr/h-spear](https://career.programmers.co.kr/pr/h-spear)                                 |
+
 ## 👨‍💻 Skills
 <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=OpenJdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>    
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>    
@@ -42,7 +43,7 @@
 
 -   `'24.01.08 ~ '24.02.16` **Secreto - 온라인 마니또 서비스**
 
-    -   Vue.js, TypeScript, MySQL, Java, Spring, JPA, QueryDSL
+    -   Vue.js, TypeScript, Pinia, Axios, Tailwind CSS
     -   마니또 미션 인증/자랑, 게임 통계, 히스토리, 회원 관리 구현, 프론트엔드 반응형 웹
     -   팀 프로젝트(6인)
 
@@ -66,7 +67,7 @@
 
 -   `'22.03.10 ~ '22.06.16` **SDA - 일상생활 데이터 분석 기반 시니어 케어 시스템**
 
-    -   Java, Android, Firebase, FCM, Tensorflow Lite, [ML Kit](https://developers.google.com/ml-kit/vision/pose-detection)
+    -   Java, Android, Firebase, Tensorflow Lite, [ML Kit](https://developers.google.com/ml-kit/vision/pose-detection)
     -   시니어 앱/보호자 앱 총괄/개발, 1차 낙상 판단 알고리즘 구현, Tensorflow Lite를 활용한 딥러닝 모델 이식
     -   팀 프로젝트(4인)  /  [Github](https://github.com/h-spear/senior-danger-analysis)  /  [시연영상](https://youtu.be/W3RGKqy59TE)
 
