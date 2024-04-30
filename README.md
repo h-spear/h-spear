@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
 #### Current Learning
--   Chrome Extension, Spring Webflux, Unit Test
+-   Chrome Extension, Unit Test
 
 ## 🎓 Experience
 
