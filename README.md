@@ -30,7 +30,7 @@
 
     -   Chrome Extension, React, AWS Lambda
     -   팀장, 문제 풀이 코딩테스트 환경(에디터, 테스트 케이스 실행, 코드 제출) 구현
-    -   팀 프로젝트(6인) / [Github](https://github.com/algo-plus/algo-plus) / [Chrome 웹 스토어](https://chromewebstore.google.com/detail/algo-plus/egomkekembecbmlmmoflfdaobgkliiid) / [시연영상](https://youtu.be/8h0NrgmRRuY?feature=shared)
+    -   팀 프로젝트(4인) / [Github](https://github.com/algo-plus/algo-plus) / [Chrome 웹 스토어](https://chromewebstore.google.com/detail/algo-plus/egomkekembecbmlmmoflfdaobgkliiid) / [시연영상](https://youtu.be/8h0NrgmRRuY?feature=shared)
 
 -   `'24.02.19 ~ '24.04.03` **소모아 - IoT 기반 가전기기 소모품 통합 관리 플랫폼**
 
