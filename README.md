@@ -26,7 +26,7 @@
 
 ## 🚀 Project Summary
 
--   `'24.04.08 ~` **Algo Plus - 알고리즘 문제 풀이 사이트 크롬 익스텐션**
+-   `'24.04.08 ~` **Algo Plus - 코딩테스트 역량 강화 크롬 익스텐션**
 
     -   Chrome Extension, React, AWS Lambda
     -   팀장, 문제 풀이 코딩테스트 환경(에디터, 테스트 케이스 실행, 코드 제출) 구현
