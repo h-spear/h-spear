@@ -14,9 +14,6 @@
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
-#### Current Learning
-- Redis, Spring Webflux, Unit Test
-
 ## 🎓 Experiences
 
 -   `'23.07.05 ~ '24.06.28` **삼성 청년 소프트웨어 아카데미 10기**(SSAFY 10th)
