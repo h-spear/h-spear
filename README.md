@@ -69,6 +69,6 @@
 
 <div align="center">
     <a href="https://solved.ac/ki9014">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ki9014">
+        <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=ki9014">
     </a>
 </div>
