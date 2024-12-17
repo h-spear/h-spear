@@ -5,7 +5,7 @@
     -   Chrome Extension, React, AWS Lambda
     -   <img src="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" width="20" height="20"/> [Github Repository](https://github.com/algo-plus)
     -   <img src="https://www.google.com/images/icons/product/chrome_web_store-256.png" width="20" height="20"/> [Chrome 웹 스토어](https://chromewebstore.google.com/detail/algo-plus/egomkekembecbmlmmoflfdaobgkliiid)
-    -   <img src="https://www.youtube.com/s/desktop/3637873e/img/logos/favicon_96x96.png" width="20" height="20"/> [시연영상](https://youtu.be/8h0NrgmRRuY?feature=shared)
+    -   <img src="https://www.youtube.com/s/desktop/3637873e/img/logos/favicon_96x96.png" width="20" height="20"/> [Demo](https://youtu.be/8h0NrgmRRuY?feature=shared)
 
 
 ---
